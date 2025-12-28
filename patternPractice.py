@@ -82,4 +82,4 @@ num = int(input("give me a number"))
 for i in range(num):
     print((" "*i +"* " )+(" "*((2*num)-(2*i)-3)+"* "))
 
-
+print("manikanta")
